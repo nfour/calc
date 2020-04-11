@@ -8,12 +8,8 @@
   },
   "eslintConfig": {
     "extends": "standard-typescript-prettier",
-    "plugins": [
-      "only-warn"
-    ],
-    "parserOptions": {
-      "project": "./tsconfig.json"
-    }
+    "plugins": [ "only-warn" ],
+    "parserOptions": { "project": "./tsconfig.json" }
   },
   "prettier": "eslint-config-standard-typescript-prettier/prettier",
   "dependencies": {
