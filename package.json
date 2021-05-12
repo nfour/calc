@@ -17,6 +17,6 @@
   "prettier": "eslint-config-standard-typescript-prettier/prettier",
   "dependencies": {
     "@types/mathjs": "^6.0.4",
-    "mathjs": "^6.6.1"
+    "mathjs": "^7.5.1"
   }
 }
